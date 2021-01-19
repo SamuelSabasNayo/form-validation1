@@ -1,4 +1,4 @@
-# Barefoot Nomad
+# Space Agreeable Frontend
 
 [![Build Status](https://travis-ci.com/atlp-rwanda/space-bn-frontend.svg?token=zEupCAtsZqdSGJp8Hjbd&branch=develop)](https://travis-ci.com/atlp-rwanda/space-bn-frontend)
 [![Coverage Status](https://coveralls.io/repos/github/atlp-rwanda/space-bn-frontend/badge.svg?branch=ch-Run-code-climate-test-coverage-%23175743398)](https://coveralls.io/github/atlp-rwanda/space-bn-frontend?branch=ch-Run-code-climate-test-coverage-%23175743398)
